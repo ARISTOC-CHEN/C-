@@ -1,0 +1,3 @@
+﻿  test.cpp
+D:\Program\C++\Advanced\BagProblem\test.cpp(20,12): warning C4018: “<”: 有符号/无符号不匹配
+  BagProblem.vcxproj -> D:\Program\C++\Advanced\BagProblem\Debug\BagProblem.exe

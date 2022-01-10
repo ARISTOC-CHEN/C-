@@ -1,0 +1,5 @@
+﻿  shellsort.cpp
+D:\Program\C++\Advanced\shellsort\shellsort.cpp(9,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\Program\C++\Advanced\shellsort\shellsort.cpp(25,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\Program\C++\Advanced\shellsort\shellsort.cpp(32,20): warning C4018: “<”: 有符号/无符号不匹配
+  shellsort.vcxproj -> D:\Program\C++\Advanced\shellsort\Debug\shellsort.exe

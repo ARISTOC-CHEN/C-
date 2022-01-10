@@ -1,0 +1,3 @@
+﻿  heapsort.cpp
+D:\Program\C++\Advanced\heapsort\heapsort.cpp(13,20): warning C4018: “<”: 有符号/无符号不匹配
+  heapsort.vcxproj -> D:\Program\C++\Advanced\heapsort\Debug\heapsort.exe
